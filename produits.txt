@@ -1,0 +1,9 @@
+1|Baguette|Pains|1.99|images/pain1.png|
+2|Pain de campagne|Pains|2.99|images/pain2.jpg|
+3|Pain complet|Pains|4.99|images/pain3.png|
+7|Eclair au chocolat|Pâtisseries|4.20|images/pain4.jpg|
+8|Tarte aux fruits|Pâtisseries|8.20|images/pain5.jpg|
+9|Religieuse|Pâtisseries|12.90|images/pain6.jpg|
+4|Croissant|Viennoiseries|2.80|images/pain9.png|
+5|Pain au chocolat|Viennoiseries|2.80|images/pain7.jpg|
+6|Brioche|Viennoiseries|3.50|images/pain8.jpg|
